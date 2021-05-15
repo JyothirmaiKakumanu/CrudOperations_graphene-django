@@ -1,0 +1,86 @@
+[
+    {
+        "model": "crud_company_details.company_details",
+        "pk": 1,
+        "fields": {
+            "name": "Nestle",
+            "address": "Switzerland",
+            "owner_info": "Henri Nestlé",
+            "employee_size": 352000
+        }
+    },
+
+    {
+        "model": "crud_company_details.company_details",
+        "pk": 2,
+        "fields": {
+            "name": "Cadbury",
+            "address": "London",
+            "owner_info": "John Cadbury",
+            "employee_size": 71657
+        }
+    },
+
+    {
+        "model": "crud_company_details.company_details",
+        "pk": 3,
+        "fields": {
+            "name": "Hersheys",
+            "address": "Pennsylvania",
+            "owner_info": "Milton S. Hershey",
+            "employee_size": 16140
+        }
+    },
+
+    {
+        "model": "crud_company_details.company_details",
+        "pk": 4,
+        "fields": {
+            "name": "Amazon",
+            "address": "Washington",
+            "owner_info": "Jeff Bezos",
+            "employee_size": 1298000
+        }
+    },
+
+    {
+        "model": "crud_company_details.company_details",
+        "pk": 5,
+        "fields": {
+            "name": "Apple",
+            "address": "California",
+            "owner_info": "Steve Jobs",
+            "employee_size": 147000
+        }
+    },
+    {
+        "model": "crud_company_details.company_details",
+        "pk": 6,
+        "fields": {
+            "name": "Microsoft",
+            "address": "Washington",
+            "owner_info": "Bill Gates",
+            "employee_size": 166475
+        }
+    },
+    {
+        "model": "crud_company_details.company_details",
+        "pk": 7,
+        "fields": {
+            "name": "Walmart",
+            "address": "Arkansas",
+            "owner_info": "Sam Walton",
+            "employee_size": 700000
+        }
+    },
+    {
+        "model": "crud_company_details.company_details",
+        "pk": 8,
+        "fields": {
+            "name": "Reliance Industries Limited",
+            "address": "Mumbai",
+            "owner_info": "Dhirubhai Ambani",
+            "employee_size": 195618
+        }
+    }
+]
