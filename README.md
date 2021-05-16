@@ -1,5 +1,8 @@
 #Clone Repository $ git clone https://github.com/JyothirmaiKakumanu/CrudOperations_graphene-django.git $ docker-compose up
 
+Docker Image: jyothi734/company_info_app 
+Docker Repo: jyothi734/crudoperations_graphene-django
+
 Now you can access the application at http://localhost:8000/graphql and the admin site at https://localhost/admin.
 
 #Deployment
